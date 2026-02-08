@@ -1,1 +1,1 @@
-I am Berfin Demir, currently a fresman in Bilkent University CS department. 
+I am Berfin Demir, currently a sophmore in Bilkent University CS department. 
